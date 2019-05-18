@@ -1,7 +1,5 @@
 .DS_Store
-DO_NOT_DESTROY.md
 terraform.tfstate
 terraform.tfstate.backup
-benchmarking.md
 .terraform
-vault.auto.tfvars
+*.auto.tfvars
